@@ -11,7 +11,7 @@
             <!-- Sidebar user panel (optional) -->
             <div class="user-panel mt-3 pb-3 mb-3 d-flex">
                 <div class="image">
-                    <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+                    <img src="dist/img/kawan.jpeg" class="img-circle elevation-2" alt="User Image">
                 </div>
                 <div class="info">
                     <a href="#" class="d-block">Kawan foda</a>
@@ -44,44 +44,38 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="#" class="nav-link menuLateralClick" data-menu="clientes">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Clientes</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="#" class="nav-link menuLateralClick" data-menu="eventos">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Eventos</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="#" class="nav-link menuLateralClick" data-menu="pedidos">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Pedidos</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i>
-                                    <p>Funcinários</p>
+                                <a href="#" class="nav-link menuLateralClick" data-menu="funcionarios">
+                                    <i class=" far fa-circle nav-icon"></i>
+                                    <p>Funcionários</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i>
+                                <a href="#" class="nav-link menuLateralClick" data-menu="cardapio">
+                                    <i class=" far fa-circle nav-icon"></i>
                                     <p>Cardápio</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i>
-                                    <p>Clientes</p>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i>
+                                <a href="#" class="nav-link menuLateralClick" data-menu="avaliacoes">
+                                    <i class=" far fa-circle nav-icon"></i>
                                     <p>Avaliações</p>
                                 </a>
                             </li>
