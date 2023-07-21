@@ -10,6 +10,12 @@
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <link rel="stylesheet" href="dist/css/adminlte.min.css">
 </head>
+
+<!-- Config -->
+<?php include_once('.config/conexao.php') ?>
+<?php include_once('.config/constantes.php') ?>
+<!--  Fim Config-->
+
 <!-- Menu topo -->
 <?php include_once('menutopo.php'); ?>
 <!-- Menu topo fim -->
@@ -17,6 +23,7 @@
 <!-- Menu lateral -->
 <?php include_once('menulateral.php'); ?>
 <!-- Menu lateral fim -->
+
 
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper">
@@ -43,7 +50,7 @@
       <!-- CONTEUDO -->
       <div class="conteudo" id="conteudo">
 
-     </div>
+      </div>
     </div>
   </div>
 
@@ -54,7 +61,7 @@
   <!-- /.control-sidebar -->
 
   <!-- Main Footer -->
-<?php include_once('footer.php');?>
+  <?php include_once('footer.php'); ?>
 </div>o
 <!-- ./wrapper -->
 

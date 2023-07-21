@@ -18,4 +18,4 @@ $('.menuLateralClick').on('click', function () {
         }
     });
 
-})    
+})

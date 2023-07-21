@@ -79,6 +79,12 @@
                                     <p>Avaliações</p>
                                 </a>
                             </li>
+                            <li class="nav-item">
+                                <a href="#" class="nav-link menuLateralClick" data-menu="sobreNos">
+                                    <i class=" far fa-circle nav-icon"></i>
+                                    <p>Sobre nós</p>
+                                </a>
+                            </li>
                     </li>
                 </ul>
             </nav>
